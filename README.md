@@ -1,2 +1,2 @@
-# powerbi
+# PowerBI
 power-bi projects display
